@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_FoodMatket_2025/static/css/main.add6603a.css",
+    "main.js": "/React_FoodMatket_2025/static/js/main.c0f4a13d.js",
+    "static/js/453.a3257d07.chunk.js": "/React_FoodMatket_2025/static/js/453.a3257d07.chunk.js",
+    "index.html": "/React_FoodMatket_2025/index.html",
+    "main.add6603a.css.map": "/React_FoodMatket_2025/static/css/main.add6603a.css.map",
+    "main.c0f4a13d.js.map": "/React_FoodMatket_2025/static/js/main.c0f4a13d.js.map",
+    "453.a3257d07.chunk.js.map": "/React_FoodMatket_2025/static/js/453.a3257d07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.add6603a.css",
+    "static/js/main.c0f4a13d.js"
+  ]
+}
